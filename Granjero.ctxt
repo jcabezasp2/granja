@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Granjero
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Granjero\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=nombre\ apellidos\ edad\ sexo
+comment1.target=Granjero(java.lang.String,\ java.lang.String,\ int,\ char)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Granjero\r\n
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=java.lang.String\ getNombre()
+comment2.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\ \r\n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \r\n
+comment3.params=
+comment3.target=java.lang.String\ getApellidos()
+comment4.params=
+comment4.target=int\ getEdad()
+comment5.params=
+comment5.target=char\ getSexo()
+comment6.params=nombre
+comment6.target=void\ setNombre(java.lang.String)
+comment7.params=apellidos
+comment7.target=void\ setApellidos(java.lang.String)
+comment8.params=edad
+comment8.target=void\ setEdad(int)
+comment9.params=mascota
+comment9.target=void\ setMascota(Mascota)
+numComments=11
