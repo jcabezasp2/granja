@@ -2,7 +2,7 @@
 /**
  * Write a description of class Granjero here.
  * 
- * @author (your name) 
+ * @author 
  * @version (a version number or a date)
  */
 public class Granjero
